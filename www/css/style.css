@@ -14,6 +14,9 @@ html,body {
   background: white;
 }
 
+#disp1{
+    font-size: x-large;
+
 #btn {
   font-size: 2em;
 }
